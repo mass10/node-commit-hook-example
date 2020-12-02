@@ -1,0 +1,2 @@
+@SETLOCAL
+@ECHO === PRE COMMIT HOOK ===
