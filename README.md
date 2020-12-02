@@ -5,5 +5,12 @@
 * コマンドプロンプトで git commit は成功。
 * bash in Ubuntu で git commit も成功。
 
+# はじめかた
+
+```CMD
+yarn init
+yarn install --dev pre-commit
+```
+
 # LINK
 * https://github.com/observing/pre-commit/
